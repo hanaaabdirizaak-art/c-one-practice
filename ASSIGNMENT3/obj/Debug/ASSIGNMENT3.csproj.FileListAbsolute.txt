@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\ASSIGNMENT3\bin\Debug\ASSIGNMENT3.exe.config
+C:\Users\hp\Desktop\ASSIGNMENT3\bin\Debug\ASSIGNMENT3.exe
+C:\Users\hp\Desktop\ASSIGNMENT3\bin\Debug\ASSIGNMENT3.pdb
+C:\Users\hp\Desktop\ASSIGNMENT3\obj\Debug\ASSIGNMENT3.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ASSIGNMENT3\obj\Debug\ASSIGNMENT3.Form1.resources
+C:\Users\hp\Desktop\ASSIGNMENT3\obj\Debug\ASSIGNMENT3.Properties.Resources.resources
+C:\Users\hp\Desktop\ASSIGNMENT3\obj\Debug\ASSIGNMENT3.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\ASSIGNMENT3\obj\Debug\ASSIGNMENT3.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ASSIGNMENT3\obj\Debug\ASSIGNMENT3.exe
+C:\Users\hp\Desktop\ASSIGNMENT3\obj\Debug\ASSIGNMENT3.pdb
