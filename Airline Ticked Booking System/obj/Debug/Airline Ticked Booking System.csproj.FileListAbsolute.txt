@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\Airline Ticked Booking System\obj\Debug\Airline Ticked Booking System.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Airline Ticked Booking System\obj\Debug\Airline_Ticked_Booking_System.Form1.resources
+C:\Users\hp\Desktop\Airline Ticked Booking System\obj\Debug\Airline_Ticked_Booking_System.Properties.Resources.resources
+C:\Users\hp\Desktop\Airline Ticked Booking System\obj\Debug\Airline Ticked Booking System.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Airline Ticked Booking System\obj\Debug\Airline Ticked Booking System.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Airline Ticked Booking System\bin\Debug\Airline Ticked Booking System.exe.config
+C:\Users\hp\Desktop\Airline Ticked Booking System\bin\Debug\Airline Ticked Booking System.exe
+C:\Users\hp\Desktop\Airline Ticked Booking System\bin\Debug\Airline Ticked Booking System.pdb
+C:\Users\hp\Desktop\Airline Ticked Booking System\obj\Debug\Airline Ticked Booking System.exe
+C:\Users\hp\Desktop\Airline Ticked Booking System\obj\Debug\Airline Ticked Booking System.pdb
