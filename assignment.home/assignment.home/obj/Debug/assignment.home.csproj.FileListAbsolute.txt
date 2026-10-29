@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\assignment.home\assignment.home\bin\Debug\assignment.home.exe.config
+C:\Users\hp\Desktop\assignment.home\assignment.home\bin\Debug\assignment.home.exe
+C:\Users\hp\Desktop\assignment.home\assignment.home\bin\Debug\assignment.home.pdb
+C:\Users\hp\Desktop\assignment.home\assignment.home\obj\Debug\assignment.home.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\assignment.home\assignment.home\obj\Debug\assignment.home.Form1.resources
+C:\Users\hp\Desktop\assignment.home\assignment.home\obj\Debug\assignment.home.Properties.Resources.resources
+C:\Users\hp\Desktop\assignment.home\assignment.home\obj\Debug\assignment.home.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\assignment.home\assignment.home\obj\Debug\assignment.home.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\assignment.home\assignment.home\obj\Debug\assignment.home.exe
+C:\Users\hp\Desktop\assignment.home\assignment.home\obj\Debug\assignment.home.pdb
+C:\Users\hp\Desktop\assignment.home\assignment.home\obj\Debug\assignment.home.exe.config
