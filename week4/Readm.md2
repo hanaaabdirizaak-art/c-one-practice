@@ -1,0 +1,100 @@
+
+Chapter 4: Loops, Files, and Random Numbers – C#
+Part 1: The while Loop
+A while loop repeats a statement or group of statements as long as a Boolean expression is true.
+- Boolean Expression: A condition that is checked as True or False.
+- Loop Body: The statements repeated inside the loop.
+- Iteration: One complete execution of a loop.
+- Counter Variable: A variable used to count how many times a loop runs.
+Pretest Loop: A loop that checks its condition before executing.
+
+Infinite Loop: A loop that never stops because its condition always remains True.
+Part 2: Increment and Decrement Operators
+These operators increase or decrease the value of a variable.
+- ++ Increment: Increases a value by 1.
+- -- Decrement: Decreases a value by 1.
+- count += 1: Increases the value by 1.
+- count -= 1: Decreases the value by 1.
+Postfix: Uses the old value first, then changes it.
+
+Prefix: Changes the value first, then uses the new value.
+Part 3: The for Loop
+A for loop is designed for situations where a counter variable controls how many times a loop repeats.
+
+It has three main parts:
+1. Initialization: Sets the starting value of the counter.
+2. Test: Checks whether the condition is true.
+3. Update: Increases or decreases the counter.
+A for loop is a Pretest Loop because it checks the condition before executing.
+Part 4: The do-while Loop
+A do-while loop executes statements first and checks the condition afterward.
+- Posttest Loop: Checks the condition after executing the statements.
+- It always executes at least once, even if the condition is false.
+Difference:
+- While Loop: Checks the condition first.
+- Do-While Loop: Executes first, then checks the condition.
+Part 5: Using Files for Data Storage
+File handling is used to save data for later use.
+
+There are three main steps:
+1. Open the File: Connects the file to the program.
+2. Process the File: Reads or writes data.
+3. Close the File: Disconnects the file from the program.
+Types of Files:
+- Text File: Contains data stored as text.
+- Binary File: Contains data that has not been converted into text.
+Important Classes:
+- StreamWriter: Used to write data to a text file.
+- StreamReader: Used to read data from a text file.
+Important Methods:
+- Write: Writes data without creating a new line.
+- WriteLine: Writes data and moves to a new line.
+- Read: Reads characters.
+- ReadLine: Reads one line.
+- ReadToEnd: Reads all remaining data.
+CreateText: Creates a text file. If the file already exists, its contents are erased.
+
+AppendText: Adds new data without deleting the existing contents.
+Part 6: OpenFileDialog and SaveFileDialog
+These controls allow an application to display standard Windows dialog boxes for opening and saving files.
+- OpenFileDialog: Displays a window for opening a file.
+- SaveFileDialog: Displays a window for saving a file.
+Important Methods and Properties:
+- ShowDialog(): Displays the dialog box.
+- DialogResult.OK: Indicates that the user clicked OK.
+- DialogResult.Cancel: Indicates that the user clicked Cancel.
+- FileName: Stores the selected file's path and name.
+- InitialDirectory: Specifies the directory displayed initially.
+Invisible Controls: These controls do not appear directly on the Form. They appear in the Component Tray.
+Part 7: Random Numbers
+Random numbers are numbers generated without a predictable sequence.
+
+C# provides the Random Class to generate random numbers.
+
+Two important methods:
+- Next(): Generates a random integer.
+- NextDouble(): Generates a floating-point number between 0.0 and 1.0.
+Random numbers can be used in games and other applications.
+Part 8: The Load Event
+The Load Event occurs when an application's Form is loaded into memory.
+- It runs when the Form is launched.
+- It can be used to prepare data.
+- It can display an opening message.
+- It helps initialize the application.
+Load Event Handler: A method that contains statements executed when the Form loads.
+
+Quick Revision – Exam Preparation
+Topic	Meaning
+while Loop	Repeats while a condition is true
+Increment	Increases a value by 1
+Decrement	Decreases a value by 1
+for Loop	Repeats a specific number of times
+do-while	Executes first, checks later
+StreamWriter	Writes data to a file
+StreamReader	Reads data from a file
+CreateText	Creates a text file
+AppendText	Adds data to an existing file
+OpenFileDialog	Opens a file
+SaveFileDialog	Saves a file
+Random	Generates random numbers
+Load Event	Occurs when the Form loads
